@@ -1,4 +1,4 @@
-
+# This is my very first Git project!
 a = 666
 b = 10
 print(a + b)
