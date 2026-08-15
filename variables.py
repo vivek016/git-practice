@@ -4,3 +4,6 @@ print(a + b)
 
 name = "VK"
 print(name)
+
+
+print ('Stash')
